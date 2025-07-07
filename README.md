@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard designed to analyze road accident data from the UK (2019–2022). This project helps uncover key patterns and insights about accident trends, casualties, and contributing factors through dynamic visualizations.
 
----
+
 
 ## 📊 Project Overview
 
@@ -14,13 +14,13 @@ This dashboard provides:
 
 The aim is to assist in identifying critical factors contributing to serious accidents and support data-driven decision-making.
 
----
+
 
 ## 📁 Dataset
 
 [UK Vehicle Accident Database 2019-2022 on Kaggle](https://www.kaggle.com/datasets/charliescott556/uk-vehicle-accident-database-2019-2022)
 
----
+
 
 ## 🎯 Objectives
 
@@ -29,7 +29,7 @@ The aim is to assist in identifying critical factors contributing to serious acc
 - Provide dynamic filters for customized insights
 - Identify accident-prone areas using map visualizations
 
----
+
 
 ## 🚀 Key Features
 
@@ -54,7 +54,7 @@ The aim is to assist in identifying critical factors contributing to serious acc
 - All charts dynamically update with filters
 - Enables in-depth exploration of accident data
 
----
+
 
 ## 💡 Insights
 
@@ -63,7 +63,7 @@ The aim is to assist in identifying critical factors contributing to serious acc
 - Fine weather and dry roads account for most serious accidents (human factors likely critical)
 - Accident clusters visible in urban and high-density areas
 
----
+
 
 ## 📂 Files in this repository
 
@@ -74,7 +74,6 @@ The aim is to assist in identifying critical factors contributing to serious acc
 - `Vehicle Images/` – Icons and images used in dashboard
 - `Background.pptx.jpg` – Dashboard background
 
----
 
 ## 📌 How to Use
 
@@ -83,7 +82,7 @@ The aim is to assist in identifying critical factors contributing to serious acc
 3. Explore using filters for year and accident severity.
 4. Analyze insights and trends visually.
 
----
+
 
 ## 🌟 Contributors
 
